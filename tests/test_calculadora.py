@@ -55,4 +55,3 @@ def test_potencia_positiva(self):
 
 def test_potencia_cero(self):
     assert potencia(5, 0) == 1
-
