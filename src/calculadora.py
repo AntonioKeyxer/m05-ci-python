@@ -25,8 +25,8 @@ def dividir(a, b):
     return a / b
 
 
-def modulo(a,b):   # ← falta espacio después de la coma → flake8 fallará
-    return a%b     # ← falta espacios alrededor del operador
+def modulo(a, b):
+    return a % b
 
 
 def potencia(base, exponente):
